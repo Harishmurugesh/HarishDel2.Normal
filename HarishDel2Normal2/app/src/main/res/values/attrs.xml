@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomView">
+        <attr name="breadth" format="dimension"/>
+        <attr name="radius" format="dimension"/>
+        <attr name="a" format="dimension"/>
+        <attr name="b" format="dimension"/>
+        <attr name="cx" format="dimension"/>
+        <attr name="cy" format="dimension"/>
+        <attr name="c" format="dimension"/>
+
+    </declare-styleable>
+
+</resources>
